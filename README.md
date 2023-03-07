@@ -1,3 +1,7 @@
+# ECON 323 Final Project
+### By: Brian Zeng and Joyce Lu
+<br>
+
 Data Source (https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?select=SaYoPillow.csv)
 
 I've recently discovered that I suffer from sleep apnea, a debilatating sleeping disorder. After seeing a specialist and learning about all the consequences of poor sleep, I've been inspired to explore patterns in sleep and their relations to negative symptons. With the lack of sleep apnea datasets, we will be utilizing a dataset from a sleep study with various sleep stats, one of the important ones being stress. One symptom of sleep apnea is high stress so this is a good compromise, though makes no point in claiming any sort of casuality. 
